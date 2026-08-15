@@ -60,7 +60,7 @@ Each individual route, with its stop sequence and distances:
 
 ## 📄 Report
 
-A full project report is included, covering the problem statement, literature review, methodology, and detailed explanation of each data structure's role — see `Bus_Scheduling_Report.docx` (or `/docs`) in this repo.
+A full project report is included, covering the problem statement, literature review, methodology, and detailed explanation of each data structure's role — see `DSA.Project.Report.docx` in repo.
 
 ## 🎓 What This Project Demonstrates
 
